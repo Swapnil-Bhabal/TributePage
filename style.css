@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(0,0,0,0.1);
+}
+
+#title {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#img-div{
+    text-align: center;
+    size: 40rem;
+    background-color: white;
+    border-radius: 0.5rem;
+}
+#image {
+    display: block;
+    max-width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#headline {
+    text-align: center;
+}
+
+ul {
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+#tribute-link {
+    color: dodgerblue;
+}
